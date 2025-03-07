@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: 遇見超級自私的人
 ---
 
